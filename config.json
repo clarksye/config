@@ -11,7 +11,7 @@
   "pass": "x",
 
   "algo": "gr",
-  "threads": 8,
+  "threads": 0,
 
   "_comment4": "tune-full takes longer but should provide better hashrate",
   "tune-full": false,
